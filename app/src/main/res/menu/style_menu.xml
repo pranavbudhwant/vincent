@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/none"
+        android:title="None" />
+    <item
+        android:id="@+id/the_scream"
+        android:title="The Scream" />
+    <item
+        android:id="@+id/the_poppy_field"
+        android:title="The Poppy Field"/>
+    <item
+        android:id="@+id/bicentennial"
+        android:title="Bicentennial Print"/>
+    <item
+        android:id="@+id/femmes"
+        android:title="Les Femmes d'Alger"/>
+    <item
+        android:id="@+id/clown"
+        android:title="Head of a Clown"/>
+    <item
+        android:id="@+id/starry"
+        android:title="The Starry Night"/>
+    <item
+        android:id="@+id/horses"
+        android:title="Horses"/>
+    <item
+        android:id="@+id/the_trial"
+        android:title="The Trial"/>
+    <item
+        android:id="@+id/pink_n_blue"
+        android:title="Pink and Blue"/>
+    <item
+        android:id="@+id/ritmo"
+        android:title="Ritmo Plastico"/>
+    <item
+        android:id="@+id/kaleidoscope"
+        android:title="Kaleidoscope"/>
+
+</menu>
